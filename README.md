@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Sarah, a Computer Science student based in New Jersey. I'll be open to work after graduating in May 2026.
+I'm Sarah, a recent Computer Science Graduate based in New Jersey. Open to work.
 
 I'm currently working on a Secure Web Application project to better understand the process that goes into keeping user information and applications secure from common exploits. It's been a trial-and-error process learning how to use Flask with Python to implement encryption, data persistence using JSON files, and a basic authentication and access control system. I am including input validation, encryption, session management, security headers, and logging with libraries such as cryptography, bcrypt, werkzeug, and many more!
 
